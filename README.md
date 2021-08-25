@@ -7,7 +7,7 @@
 2. node index/npm start
 
 Команды:
-game (activity name) - запускает игру
+game (channel id) (activity name) - запускает игру
 
 ##ENG
 
@@ -16,5 +16,5 @@ Installing and start:
 2. node/npm start
 
 Commands:
-game (activity name) - starting the activiy
+game (channel id) (activity name) - starting the activiy
 
